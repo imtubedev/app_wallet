@@ -1,5 +1,0 @@
-Loading example: 
-
-```js
-<Loading />
-```
