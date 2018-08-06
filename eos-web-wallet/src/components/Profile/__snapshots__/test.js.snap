@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Profile /> renders without crashing 1`] = `
+<div
+  className="columns is-variable is-2 is-mobile"
+>
+  <div
+    className="column is-narrow"
+  >
+    <img
+      alt="Rick Sanchez"
+      className={undefined}
+      src="src"
+    />
+  </div>
+  <div
+    className="column u-mt1"
+  >
+    <div
+      className="heading is-6"
+    />
+    <div
+      className="title"
+    >
+      Friday Harbor, WA
+    </div>
+    <a
+      href="http://mywebsite.com/me"
+      target="_blank"
+    >
+      http://mywebsite.com/me
+    </a>
+    <p
+      className="is-hidden-mobile"
+    >
+      active
+    </p>
+  </div>
+</div>
+`;
